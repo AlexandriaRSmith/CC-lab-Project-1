@@ -1,0 +1,23 @@
+body {
+    background-color: #000000;
+} 
+
+h1 {
+color: #FF0000;
+text-align: center;
+}
+
+h2 {
+	color: #55ffff;
+	text-align: center;
+}
+
+p {
+	color: #FFFFFF;
+	text-align: center;
+}
+
+#penguins{
+
+	float:center;
+}
